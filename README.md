@@ -7,8 +7,7 @@ Hi there! 👋 Welcome to my corner of the coding universe, where ideas turn int
 ## Who Am I?
 
 I'm **Hiba Daffallah**, a curious explorer in the world of Electrical and Electronic
- Engineering
-,with a passion for:
+ Engineering, with a passion for:
 
 * Sustainability and renewable energy
 
