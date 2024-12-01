@@ -1,5 +1,4 @@
-# Welcome to My GitHub!
-<!-- I am keeping the '!' to make it more appealing -->
+# Welcome to My GitHub
 
 Hi there! 👋 Welcome to my corner of the coding universe, where ideas turn into code,
  and caffeine powers creativity. Let me take you on a tour of what you'll find here.
@@ -12,10 +11,8 @@ I'm **Hiba Daffallah**, a curious explorer in the world of Electrical and Electr
 * Sustainability and renewable energy
 
 * Artificial Intelligence and data analysis
-
-<!-- I am keeping the '?' to make it more appealing -->
   
-## Why Follow Me? 
+## Why Follow Me?
 
 * Experimental: I love trying new ideas and sharing my learning journey.
 
