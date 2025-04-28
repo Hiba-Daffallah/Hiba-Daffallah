@@ -23,6 +23,6 @@ I'm **Hiba Daffallah**, a curious explorer in the world of Electrical and Electr
 I’d love to hear your thoughts, feedback, or just nerd out about tech. Connect with
  me:
 
-LinkedIn: [Hiba Yassir](https://www.linkedin.com/in/hiba-yassir/)
+LinkedIn: [Hiba Daffallah](https://www.linkedin.com/in/hiba-yassir/)
 
 Thanks for stopping by! Now, let’s build something amazing together. 🛠️
