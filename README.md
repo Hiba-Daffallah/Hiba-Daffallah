@@ -11,6 +11,8 @@ I'm **Hiba Daffallah**, a curious explorer in the world of Electrical and Electr
 * Sustainability and renewable energy
 
 * Artificial Intelligence and data analysis
+
+* Art and creative activities
   
 ## Why Follow Me?
 
